@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1YeCheng
+- 👋 Hi, I’m @1YeCheng,a student in HNU.
 - 👀 I’m interested in reading.
 - 🌱 I’m currently learning data structures and algorithms.
 
