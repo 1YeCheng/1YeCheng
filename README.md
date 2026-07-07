@@ -45,8 +45,8 @@ The repositories below are public engineering work that supports my research tra
 
 ## Methods and Skills
 
-- **Clinical AI evaluation**: task definition, multicentre report curation, reference-standard construction, reader-study design, human-AI comparison, deployment-boundary analysis.
-- **LLM and MLLM development**: zero-shot prompting, model comparison, reasoning-model analysis, LoRA fine-tuning, modality ablation, visual-grounding analysis, shortcut-learning diagnosis.
+- **Clinical AI evaluation**: evaluation-framework design, clinical task formulation, multicentre report curation, reference-standard construction, reader-study design, human-AI comparison.
+- **LLM and MLLM development**: zero-shot prompting, model comparison, reasoning-model analysis, large-model inference quantisation, LoRA fine-tuning, modality ablation.
 - **Statistics**: non-parametric bootstrap resampling, case-level paired comparisons, Bonferroni correction, linear mixed-effects modelling, precision/recall, sensitivity/specificity, report-level accuracy, detection rate.
 - **Medical image analysis**: lung CT preprocessing, ultrasound and CEUS analysis, thresholding, connected components, morphology, convex-hull repair, mask dilation, ROI localisation, contour analysis, HSV segmentation, Fourier filtering, Segment Anything mask export.
 - **Engineering**: Python, NumPy, Pandas, OpenCV, scikit-image, scikit-learn, Matplotlib, Seaborn, Flask, PyQt5/Tkinter, structured JSON/CSV outputs, Linux, TCP networking, Docker/Kubernetes, HPA autoscaling.
