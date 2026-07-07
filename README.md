@@ -1,6 +1,6 @@
 # Ye Cheng 🌱
 
-Undergraduate student at Hunan University working on medical AI, from LLM reasoning for clinical report analysis to multimodal medical image understanding. My research is centered on breast ultrasound and CEUS, with additional work on radiology report safety and reliability before clinical deployment.
+Undergraduate student at Hunan University working on medical AI, from LLM reasoning for clinical report analysis to multimodal medical image understanding. My current work focuses on breast ultrasound and contrast-enhanced ultrasound (CEUS), while also developing reliable radiology reporting systems for safer clinical deployment.
 
 ![Medical AI](https://img.shields.io/badge/Focus-Medical%20AI-0F766E)
 ![LLM Reasoning](https://img.shields.io/badge/LLM-Reasoning%20%26%20Evaluation-7C3AED)
@@ -10,13 +10,9 @@ Undergraduate student at Hunan University working on medical AI, from LLM reason
 
 ## Research Interests
 
-I am interested in how large language models, multimodal large language models, and AI agents can be adapted into safe and trustworthy medical decision-support scenarios, particularly in breast ultrasound imaging and radiology reporting.
+I am interested in how large language models, multimodal large language models, and AI agents can be adapted into safe and trustworthy medical decision-support scenarios.
 
 ## Research Experience
-
-**Undergraduate Research Assistant**, Hunan University / The Second Xiangya Hospital, Central South University  
-**Apr 2025 - Present**  
-**Supervisors**: Prof. Shaoliang Peng (Hunan University) and Prof. Jun Liu (The Second Xiangya Hospital, Central South University)
 
 The following projects are from manuscripts currently under review. Their datasets, checkpoints, and research code are not included here because the work is unpublished and subject to collaborator, manuscript, and data-governance constraints.
 
