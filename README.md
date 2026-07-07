@@ -4,9 +4,9 @@ Undergraduate student at Hunan University working on medical AI, from LLM reason
 
 ![Medical AI](https://img.shields.io/badge/Focus-Medical%20AI-0F766E)
 ![LLM Reasoning](https://img.shields.io/badge/LLM-Reasoning%20%26%20Evaluation-7C3AED)
-![Multimodal AI](https://img.shields.io/badge/MLLM-Multimodal%20Grounding-2563EB)
+![Multimodal AI](https://img.shields.io/badge/MLLM-Medical%20Vision--Language-2563EB)
 ![Medical Imaging](https://img.shields.io/badge/Imaging-Breast%20Ultrasound-DB2777)
-![Radiology Safety](https://img.shields.io/badge/Safety-Radiology%20QC-5C3EE8)
+
 
 ## Research Interests
 
