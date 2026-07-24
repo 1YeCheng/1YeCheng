@@ -1,6 +1,6 @@
-# Ye Cheng
+# Ye Cheng 🌱
 
-A curious learner from Hunan University, with three manuscripts currently under review.
+I love learning and am currently studying at Hunan University.
 
 ![CS](https://img.shields.io/badge/CS-Computer%20Science-2563EB)
 ![LLM](https://img.shields.io/badge/LLM-Large%20Language%20Models-7C3AED)
@@ -16,4 +16,3 @@ A curious learner from Hunan University, with three manuscripts currently under 
 | [Intelligent-ID-Photo-Processing-System](https://github.com/1YeCheng/Intelligent-ID-Photo-Processing-System) | Computer vision system for ID photo processing, with face localization, quality assessment, geometry checks, skin-tone correction, background normalization, annotated overlays, and JSON reports. |
 | [Seal-Quality-Inspection](https://github.com/1YeCheng/Seal-Quality-Inspection) | Multimodal 2D and infrared inspection prototype for seal quality assessment, including ROI handling, defect extraction, infrared segmentation, decision fusion, a PyQt5 interface, and traceable logs. |
 | [CloudComputeBookCode](https://github.com/1YeCheng/CloudComputeBookCode) | Cloud computing and distributed systems coursework, covering TCP services, multiplayer game prototypes, concurrent state management, Redis-backed shared state, Kubernetes deployment, HPA, probes, recovery, and RBAC. |
-
